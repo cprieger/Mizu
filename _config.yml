@@ -20,11 +20,11 @@ description: "Hair Salon in Lubbock Texas. For premium color, cut, or style."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: cprieger
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://cprieger.github.io/Mizu'
+url: 'https://mizulubbock.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
