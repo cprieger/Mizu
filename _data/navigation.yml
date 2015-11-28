@@ -2,6 +2,14 @@
   url: "/"
   side: left
 
+- title: "Location"
+  url: "/location/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
@@ -9,6 +17,3 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: left
