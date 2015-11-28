@@ -12,20 +12,21 @@ Mizu means water in Japanese. The building in which the salon is located also se
 Salon services are as follows.
 
 
-Shampoo cut and style $25-30
-Shampoo and cut only-$15-20
-All over color-$60
-Partial highlights-$65
-Full highlight-$85
-$10-15 extra for cut on any chemical service. 
-Deep conditioner-$10-15
-Bleach root touch up-$55 
-Toner-$15 
-Shampoo only-$5 
-Shampoo plus style-$20
-Bang trim(or small trim)-$8
-
-Combo Packs:
-Full color plus partial-$105
-Full color plus full-$125
-
+<ul>
+	<li>Shampoo cut and style $25-30 </li>
+	<li>Shampoo and cut only-$15-20</li>
+	<li>All over color-$60</li>
+	<li>Partial highlights-$65</li>
+	<li>Full highlight-$85</li>
+	<li>$10-15 extra for cut on any chemical service. </li>
+	<li>Deep conditioner-$10-15</li>
+	<li>Bleach root touch up-$55 </li>
+	<li>Toner-$15 </li>
+	<li>Shampoo only-$5 </li>
+	<li>Shampoo plus style-$20</li>
+	<li>Bang trim(or small trim)-$8</li>
+	<li></li>
+	<li>Combo Packs:</li>
+	<li>Full color plus partial-$105</li>
+	<li>Full color plus full-$125</li>
+</ul>
