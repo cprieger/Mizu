@@ -1,11 +1,17 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact us today"
-subheadline: "Schedule an Appointment"
-teaser: "To get in touch just"
+meta_title: "Contact and use our contact form"
+subheadline: "Wufoo-powered contact forms"
+teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-Schedule an appointment with one of our stylists today.
+If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-Call or text 806-470-6725 to schedule one today.
+<div class="panel">
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
+</div>
+
+
+
+ [1]: http://www.wufoo.com/

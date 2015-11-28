@@ -8,19 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Hair by Leah"
-  url: ''
+  title: "Blog & Portfolio"
+  url: 'http://mizulubbock.com/blog/'
   image: widget-1-302x182.jpg
-  text: 'Leah Rieger is one of the Mizu stylists that will help you look and feel better.'
-widget2:
-  title: "Hair By Roo"
-  url: ''
-  text: 'Ricka Taylor is one of the Mizu stylists that will help you look and feel better.'
-widget3:
-  title: "H9 Water"
-  url: 'https://www.h9water.com/public/index.aspx'
-  image: widget-github-303x182.jpg
-  text: 'We at H9 Water understand the role water plays in achieving optimal health. It is with this understanding that has allowed us to continually invest in water research, which in turn has allowed us to produce one of the most beneficial, scientifically-backed water products ever created.'
+  text: 'Keep up to date with all the latest trends and fashions by reading our blog.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,8 +23,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /contact.html
-  text: Schedule an Appointment ›
+  url: http://mizulubbock.com/contact
+  text: Schedule an appointment ›
   style: alert
 permalink: /index.html
 #
