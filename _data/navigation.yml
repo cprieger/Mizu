@@ -10,6 +10,10 @@
   url: "/contact/"
   side: left
 
+- title: "Info"
+  url: "/info/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
