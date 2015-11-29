@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "location"
+title: "Location"
 meta_title: "Located at 2811 S Loop 289, Lubbock, TX 79423"
 subheadline: "Between Furr's and the Science Spectrum"
 teaser: "Come see us."
