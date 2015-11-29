@@ -17,6 +17,11 @@ widget2:
   url: 'http://mizulubbock.com/location/'
   image: widget-1-302x182.jpg
   text: 'Located off of Loop 289 between Furrs and the Science Spectrum.'
+widget3:
+  title: "What are the prices?"
+  url: 'http://mizulubbock.com/info/'
+  image: widget-1-302x182.jpg
+  text: 'Our prices are listed in the info section of the website.'
 
 #
 # Use the call for action to show a button on the frontpage
