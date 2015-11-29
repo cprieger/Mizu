@@ -1,0 +1,23 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Location"
+  url: "/location/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+- title: "Info"
+  url: "/info/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
