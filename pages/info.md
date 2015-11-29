@@ -8,6 +8,8 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
+<p> Be sure to ask about our military discount. </p>
+
 <ul class="pricing-table">
   <li class="title">Shampoo Cut and Style</li>
   <li class="price">$25-30</li>

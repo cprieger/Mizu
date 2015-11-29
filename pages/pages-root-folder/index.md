@@ -7,20 +7,20 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+#widget1:
+#  title: "Blog & Portfolio"
+#  url: 'http://mizulubbock.com/blog/'
+#  image: widget-1-302x182.jpg
+#  text: 'Keep up to date with all the latest trends and fashions by reading our blog.'
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://mizulubbock.com/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Keep up to date with all the latest trends and fashions by reading our blog.'
-widget2:
   title: "Where are we located?"
   url: 'http://mizulubbock.com/location/'
-  image: widget-1-302x182.jpg
+  image: Google_Maps_Icon.png
   text: 'Located off of Loop 289 between Furrs and the Science Spectrum.'
-widget3:
+widget2:
   title: "What are the prices?"
   url: 'http://mizulubbock.com/info/'
-  image: widget-1-302x182.jpg
+  image: old-register.jpg
   text: 'Our prices are listed in the info section of the website.'
 
 #
