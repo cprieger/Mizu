@@ -7,9 +7,7 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-Mizu means water in Japanese. The building in which the salon is located also sells H9 water. 
 
-Salon services are as follows.
 <ul class="pricing-table">
   <li class="title">Shampoo Cut and Style</li>
   <li class="price">$25-30</li>
