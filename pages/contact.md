@@ -6,7 +6,7 @@ subheadline: "Call today."
 teaser: "Schedule an appointment"
 permalink: "/contact/"
 ---
-Please call and schedule an appointment today 470-6725 Or click the link below. 
+Please call and schedule an appointment today 470-6725 or click the button below. 
 
 Warning prices may vary based on client. 
 
