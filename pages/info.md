@@ -25,7 +25,7 @@ Salon services are as follows.
 	<li>Shampoo only-$5 </li>
 	<li>Shampoo plus style-$20</li>
 	<li>Bang trim(or small trim)-$8</li>
-	<li></li>
+	
 	<li>Combo Packs:</li>
 	<li>Full color plus partial-$105</li>
 	<li>Full color plus full-$125</li>
