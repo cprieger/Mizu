@@ -15,7 +15,7 @@ header:
 widget1:
   title: "Where are we located?"
   url: 'http://mizulubbock.com/location/'
-  image: Google_Maps_Icon.png
+  image: tourist-map.jpg
   text: 'Located off of Loop 289 between Furrs and the Science Spectrum.'
 widget2:
   title: "What are the prices?"
