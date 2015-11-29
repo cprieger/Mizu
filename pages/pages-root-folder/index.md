@@ -20,7 +20,7 @@ widget1:
 widget2:
   title: "What are the prices?"
   url: 'http://mizulubbock.com/info/'
-  image: widget-1-302x182.jpg
+  image: old-register.jpg
   text: 'Our prices are listed in the info section of the website.'
 
 #
