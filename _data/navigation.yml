@@ -14,10 +14,14 @@
   url: "/info/"
   side: left
 
-- title: Blog
-  url: "/blog/"
+- title: "Hair By Leah"
+  url: "/leah/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
+- title: "Hair By Roo"
+  url: "/roo/"
+  side: left
+
+- title: "H9 Water with Tiffany"
+  url: "/tiffany/"
+  side: left
