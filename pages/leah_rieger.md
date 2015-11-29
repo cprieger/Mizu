@@ -2,7 +2,7 @@
 layout: page
 title: "Hair By Leah"
 meta_title: "Leah Rieger"
-subheadline: "For Princess in Dyestress."
+subheadline: "For Damsel in Dyestress."
 permalink: "/leah/"
 ---
 <p> Come schedule your appointment with Leah today. </p>
