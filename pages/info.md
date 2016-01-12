@@ -8,9 +8,8 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-<p> Be sure to ask about our military discount. </p>
-
-<p> Warning prices may vary based on service. </p>
+<p> Be sure to ask about our military discount. 
+Warning prices may vary based on service. </p>
 
 <ul class="pricing-table">
   <li class="title">Shampoo Cut and Style</li>
