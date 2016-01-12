@@ -10,6 +10,8 @@ header:
 
 <p> Be sure to ask about our military discount. </p>
 
+<p> Warning prices may vary based on service. </p>
+
 <ul class="pricing-table">
   <li class="title">Shampoo Cut and Style</li>
   <li class="price">$25-30</li>
