@@ -7,7 +7,7 @@ permalink: "/tiffany/"
 ---
 
 <object width="425" height="344">
-<param name="movie" value="http://www.youtube.com/v/u1zgFlCw8Aw?fs=1"</param>
+<param name="movie" value="https://www.youtube.com/watch?v=Fxb2HOm7bgI"</param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowScriptAccess" value="always"></param>
 <embed src="https://www.youtube.com/watch?v=Fxb2HOm7bgI"
