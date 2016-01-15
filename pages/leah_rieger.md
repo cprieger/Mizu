@@ -5,6 +5,15 @@ meta_title: "Leah Rieger"
 subheadline: "For Damsel in Dyestress."
 permalink: "/leah/"
 ---
-<p> Schedule your appointment with Leah today. Call for appointment (806)470-6725  </p>
+<p> Call and schedule your appointment with Leah today (806)470-6725  </p>
 
-<script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/6ab3c81975a9c472d863c5d0751a18734466d547.html" id="instansive_6ab3c81975" name="instansive_6ab3c81975"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>
